@@ -1,2 +1,2 @@
-Soltan Rahali
+Linked list Data Structure Project. 
 
